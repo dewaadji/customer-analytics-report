@@ -7,6 +7,7 @@ Pada dataset ini akan dilakukan analisis dengan indicator yang digunakan sebagai
 3.	Dan seberapa banyak customers tersebut yang sudah melakukan transaksi?
 4.	Category produk apa saja yang paling banyak dibeli oleh customers?
 5.	Seberapa banyak customers yang tetap aktif bertransaksi?
+
 Tabel yang akan digunakan pada project kali ini adalah sebagai berikut.
 1.	Tabel orders_1 : Berisi data terkait transaksi penjualan periode quarter 1 (Jan – Mar 2004)
 2.	Tabel Orders_2 : Berisi data terkait transaksi penjualan periode quarter 2 (Apr – Jun 2004)
